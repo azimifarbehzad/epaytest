@@ -10,4 +10,3 @@ namespace TestServer.Application.Common.Interfaces
         
     }
 }
-
