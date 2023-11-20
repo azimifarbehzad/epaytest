@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{589E8BB7-A133-4FCB-9278-5EF043EDA4E7}|Default">
+  <MonoDevelop.Ide.ItemProperties.CoinDenominations PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <Breakpoint file="/Users/azimifarbehzad/Projects/EpayTest/TestServer/CustomerDB.cs" relfile="TestServer/CustomerDB.cs" line="34" column="1" />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TestServer PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EpayTest/Program.cs">
+    <Files>
+      <File FileName="EpayTest/Program.cs" Line="17" Column="32" />
+      <File FileName="TestServer/Program.cs" Line="19" Column="11" />
+      <File FileName="TestServer/Customer.cs" Line="13" Column="1" />
+      <File FileName="TestServer/CustomerDB.cs" Line="19" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EpayTest" expanded="True">
+            <Node name="EpayTest" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
